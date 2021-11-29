@@ -1,0 +1,4 @@
+print("!!! PLEASE INPUT THE FOLLOWING INFORMATION CORRECTLY !!!")
+name=input("PLEASE ENTER YOUR NAME: ")
+number_hours=int(input("PLEASE ENTER NUMBER OF HOURS WORKED: "))
+number_children=int(input("PLEASE ENTER NUMBER OF CHILDREN: ")) 
