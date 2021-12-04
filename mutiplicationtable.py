@@ -1,5 +1,4 @@
 num = int(input("enter number: "))
 n = 8
-while num > 0:
-    print(n, "*", num, "=", n*num)
-    num = num-1
+for i in range(0, 11, 1):
+    print(n, "*", i, "=", n*i)
